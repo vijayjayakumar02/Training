@@ -20,8 +20,8 @@ namespace Training
             //Display the result of dividing two numbers 
             int n1 = 10;
             int n2 = 5;
-            int res = n1 / n2;
-            Console.WriteLine("The result is:" + res);
+            int result = n1 / n2;
+            Console.WriteLine("The result is:" + result);
 
             //Console WriteLine - concatenation
             Console.WriteLine(firstname + lastname);
