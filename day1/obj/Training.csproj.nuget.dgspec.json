@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\Training.csproj": {}
+    "C:\\Training\\day1\\Training.csproj": {}
   },
   "projects": {
-    "C:\\Training\\Training.csproj": {
+    "C:\\Training\\day1\\Training.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Training.csproj",
+        "projectUniqueName": "C:\\Training\\day1\\Training.csproj",
         "projectName": "Training",
-        "projectPath": "C:\\Training\\Training.csproj",
+        "projectPath": "C:\\Training\\day1\\Training.csproj",
         "packagesPath": "C:\\Users\\Desmond\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\obj\\",
+        "outputPath": "C:\\Training\\day1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desmond\\AppData\\Roaming\\NuGet\\NuGet.Config"
