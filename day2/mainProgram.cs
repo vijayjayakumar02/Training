@@ -27,7 +27,7 @@ namespace day2
 
             //programmin question 5
             program4 prog3 = new program4();
-            prog3.calci();
+            program4.calci();
 
             //programming question 6
             program5 prog6 = new program5();

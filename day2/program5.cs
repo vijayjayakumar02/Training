@@ -4,7 +4,7 @@ namespace day2
 {
     class program4
     {
-        public void calci()
+        public static void calci()
         {
             int num1 = 0; int num2 = 0;
 
