@@ -13,18 +13,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\sample.cs\\sample.cs.csproj",
-      "projectName": "sample.cs",
-      "projectPath": "C:\\Training\\sample.cs\\sample.cs.csproj",
+      "projectUniqueName": "C:\\Training\\day5\\day5.csproj",
+      "projectName": "day5",
+      "projectPath": "C:\\Training\\day5\\day5.csproj",
       "packagesPath": "C:\\Users\\Desmond\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\sample.cs\\obj\\",
+      "outputPath": "C:\\Training\\day5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Desmond\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Desmond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
