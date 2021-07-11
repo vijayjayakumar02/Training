@@ -8,13 +8,13 @@ namespace day5
         public void get_input()
         {
             ArrayList names = new ArrayList();
-            Console.WriteLine("Enter names or Enter to exit:");
+            Console.WriteLine("Enter names or click Enter to exit:");
             do
             {
                 names.Add(Console.ReadLine());
             } while (Console.ReadKey().Key != ConsoleKey.Enter);
 
-            if (names.Count >= 2)
+            if (names.Count > 2)
             {
                 Console.WriteLine(string.Format("{0}, {1} and {2} others liked your post.", names[0], names[1], names.Count - 2));
             }

@@ -9,6 +9,7 @@ namespace day5
         List<int> number = new List<int>();
         public void getElements()
         {
+            Console.WriteLine("Enter the names or type \"quit\" to exit :");
             string input = Console.ReadLine();
             while (input != "quit")
             {
