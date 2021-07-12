@@ -15,7 +15,7 @@ namespace day5
             //matching the pattern
             string MatchEmailPattern = "^[a-zA-Z0-9]+$";
 
-            if (password != null) 
+            if (password != null)
                 return Regex.IsMatch(password, MatchEmailPattern);
             else return false;
 
