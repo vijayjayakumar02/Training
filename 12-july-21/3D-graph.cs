@@ -24,6 +24,9 @@ namespace day6
         //copying the constructor
         public void move(Graph graph)
         {
+            if(graph == null)
+                return;
+            
             this.x = graph.x;
             this.y = graph.y;
             this.z = graph.z;
