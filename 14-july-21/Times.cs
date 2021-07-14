@@ -71,7 +71,7 @@ namespace Demo
         //getting user input to control the application
         public void runProgram()
         {
-            Thread.Sleep(2000);
+            Thread.Sleep(2000);//sleep for 2sec
             Console.WriteLine("Type \"start\" to start the timer Or Type \"Stop\" to stop the timer Or Type \"get\" to get the output Or type \"exit\" to close the application.");
             while (true)
             {

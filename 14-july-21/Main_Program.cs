@@ -9,7 +9,7 @@ namespace Demo
         {
             Stopwatch timer = new Stopwatch();
             Console.WriteLine("your stopwatch application opens in 1sec....");
-            Thread.Sleep(1000);
+            Thread.Sleep(1000);//sleep for 1sec
             Console.WriteLine("Loading....");
             timer.runProgram();//calling the methods from object timer
         }
