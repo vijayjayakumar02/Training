@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\Demo\\Demo.csproj",
-      "projectName": "Demo",
-      "projectPath": "C:\\Training\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Training\\14-july-21\\14-july-21.csproj",
+      "projectName": "14-july-21",
+      "projectPath": "C:\\Training\\14-july-21\\14-july-21.csproj",
       "packagesPath": "C:\\Users\\Desmond\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\Demo\\obj\\",
+      "outputPath": "C:\\Training\\14-july-21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desmond\\AppData\\Roaming\\NuGet\\NuGet.Config",
