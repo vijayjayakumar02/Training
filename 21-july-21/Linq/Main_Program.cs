@@ -8,6 +8,7 @@ namespace _21_july_21
     {
         static void Main(string[] args)
         {
+            //adding bank branches to list
             List<BankBranches> bankbranchesList = new List<BankBranches>{
                 new BankBranches { Name = "Indian Bank", Location = "Chennai", IFSCCode = "IN0001" },
                 new BankBranches { Name = "ICICI", Location = "Banglore", IFSCCode = "IN0056" },
@@ -15,6 +16,7 @@ namespace _21_july_21
                 new BankBranches { Name = "KVB", Location = "Cochin", IFSCCode = "IN0095" }
             };
 
+            //adding bank managers to list
             List<BankManagers> bankmanagersList = new List<BankManagers>{
                 new BankManagers { ManagerName = "Charan", BankName = "Indian Bank", Age = 32, maxpoint = 100 },
                 new BankManagers { ManagerName = "Yukesh", BankName = "ICICI", Age = 31, maxpoint = 120 },
@@ -22,6 +24,7 @@ namespace _21_july_21
                 new BankManagers { ManagerName = "SriVidhya", BankName = "KVB", Age = 27, maxpoint = 105 }
             };
 
+            //Join compares with bank branches list name and bankmangers list name
             var result = bankbranchesList.Join(bankmanagersList, s => s.Name, c => c.BankName, (s, c) =>
                  new
                  {
@@ -29,12 +32,16 @@ namespace _21_july_21
                      ManagerName = c.ManagerName
                  });
 
+            //printing results based on join
             foreach (var item in result)
             {
                 Console.WriteLine($"BankName:{item.BankName}\nManagerName:{item.ManagerName}");
                 Console.WriteLine();
             }
+            //getting maximum point of the manager from bankmanagers list
             var max_point = bankmanagersList.Max(x => x.maxpoint);
+
+            //finding the bank managers name with maxpoint
             var bankmanagerslambda1 = bankmanagersList.FindAll(x => x.maxpoint == max_point);
 
             foreach (var maxpoint in bankmanagerslambda1)
@@ -43,13 +50,15 @@ namespace _21_july_21
                 Console.WriteLine("The bank manager who has maximum point:" + maxpoint.ManagerName);
             }
             Console.WriteLine();
+
+            //finding the bank manger whose age is greater than 30
             var bankmanagerslambda = bankmanagersList.FindAll(x => x.Age > 30);
-            
+
             foreach (var age in bankmanagerslambda)
             {
                 Console.WriteLine("The managers name whose age is about 30: " + age.ManagerName);
             }
-            
+
         }
     }
 }
