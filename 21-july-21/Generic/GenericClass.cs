@@ -22,5 +22,12 @@ namespace Generic
 
             }
         }
+        public void print()
+        {
+            foreach (var item in _dict)
+            {
+                Console.WriteLine($"Key:{item.Key}\nValue:{item.Value}");
+            }
+        }
     }
 }
