@@ -1,0 +1,16 @@
+C:\Training\22-july-21\bin\Debug\net5.0\22-july-21.exe
+C:\Training\22-july-21\bin\Debug\net5.0\22-july-21.deps.json
+C:\Training\22-july-21\bin\Debug\net5.0\22-july-21.runtimeconfig.json
+C:\Training\22-july-21\bin\Debug\net5.0\22-july-21.runtimeconfig.dev.json
+C:\Training\22-july-21\bin\Debug\net5.0\22-july-21.dll
+C:\Training\22-july-21\bin\Debug\net5.0\ref\22-july-21.dll
+C:\Training\22-july-21\bin\Debug\net5.0\22-july-21.pdb
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.csproj.AssemblyReference.cache
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.AssemblyInfoInputs.cache
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.AssemblyInfo.cs
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.csproj.CoreCompileInputs.cache
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.dll
+C:\Training\22-july-21\obj\Debug\net5.0\ref\22-july-21.dll
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.pdb
+C:\Training\22-july-21\obj\Debug\net5.0\22-july-21.genruntimeconfig.cache
