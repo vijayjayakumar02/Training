@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "sample.cs/1.0.0": {
+      "Insurance/1.0.0": {
         "runtime": {
-          "sample.cs.dll": {}
+          "Insurance.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "sample.cs/1.0.0": {
+    "Insurance/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

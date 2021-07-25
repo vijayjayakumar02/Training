@@ -1,0 +1,16 @@
+C:\Training\23-july-21\Insurance\bin\Debug\net5.0\Insurance.exe
+C:\Training\23-july-21\Insurance\bin\Debug\net5.0\Insurance.deps.json
+C:\Training\23-july-21\Insurance\bin\Debug\net5.0\Insurance.runtimeconfig.json
+C:\Training\23-july-21\Insurance\bin\Debug\net5.0\Insurance.runtimeconfig.dev.json
+C:\Training\23-july-21\Insurance\bin\Debug\net5.0\Insurance.dll
+C:\Training\23-july-21\Insurance\bin\Debug\net5.0\ref\Insurance.dll
+C:\Training\23-july-21\Insurance\bin\Debug\net5.0\Insurance.pdb
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.csproj.AssemblyReference.cache
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.AssemblyInfoInputs.cache
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.AssemblyInfo.cs
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.csproj.CoreCompileInputs.cache
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.dll
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\ref\Insurance.dll
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.pdb
+C:\Training\23-july-21\Insurance\obj\Debug\net5.0\Insurance.genruntimeconfig.cache
