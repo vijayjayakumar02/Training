@@ -10,6 +10,7 @@ namespace Insurance
         {
             var listCustomer = AddCustomers();
             var listInsurance = AddInsurance();
+            //List of details for medical insurance
             List<MedicalInsurance> medicalInsurances = new List<MedicalInsurance>
             {
                 new MedicalInsurance {Name = "vijay", premiumAmount = 100000.00, ListOfAppointmentCompleted = 3},
@@ -17,12 +18,15 @@ namespace Insurance
                 new MedicalInsurance {Name = "saravana", premiumAmount = 20000.00, ListOfAppointmentCompleted = 2},
                 new MedicalInsurance {Name = "yukesh", premiumAmount = 185000.00, ListOfAppointmentCompleted = 1}
             };
+            //List of details for life insurance
             List<LifeInsurance> lifeInsurances = new List<LifeInsurance>{
                 new LifeInsurance{Name = "vijay", premiumAmount = 150000.00, Nominee = "melvin", MaturityDate = new DateTime(2007,07,11)},
                 new LifeInsurance{Name = "HariHaran", premiumAmount = 185000.00, Nominee = "Thaseen", MaturityDate = new DateTime(2008,06,16)},
                 new LifeInsurance{Name = "saravana", premiumAmount = 198000.00, Nominee = "vasundhara", MaturityDate = new DateTime(2011,08,25)},
                 new LifeInsurance{Name = "yukesh", premiumAmount = 250000.00, Nominee = "vidhya", MaturityDate = new DateTime(2012,12,12)},
             };
+
+            //comparing Customers list and Insurance Details List
             var customerId = listCustomer.Join(listInsurance, c => c.CustomerId, i => i.CustomerId, (c, i) =>
             new
             {
@@ -31,6 +35,8 @@ namespace Insurance
                 MedicalInsuranceStatus = i.MedicalInsurance,
                 age = c.Age
             }).Where(bloodgroup => bloodgroup.BloodGroup == "O+ve").Where(A => A.age <= 60);
+
+            //comparing customerName with medical insurance by customerId(Anonymous type)
             var finalist = customerId.Join(medicalInsurances, cid => cid.CustomerName, m => m.Name, (cid, m) =>
             new
             {
@@ -49,6 +55,7 @@ namespace Insurance
                 System.Console.WriteLine(name + " ");
             }
         }
+        //creating customer list
         public static List<Customer> AddCustomers()
         {
             List<Customer> customerList = new List<Customer>
@@ -60,6 +67,7 @@ namespace Insurance
                 };
             return customerList;
         }
+        //creating Insurance list
         public static List<InsuranceDetails> AddInsurance()
         {
             List<InsuranceDetails> insuranceDetailsList = new List<InsuranceDetails>{

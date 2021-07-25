@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\23-july-21\\StringEvent\\StringEvent.csproj",
-      "projectName": "StringEvent",
-      "projectPath": "C:\\Training\\23-july-21\\StringEvent\\StringEvent.csproj",
+      "projectUniqueName": "C:\\Training\\23-july-21\\stringEvents\\stringEvents.csproj",
+      "projectName": "stringEvents",
+      "projectPath": "C:\\Training\\23-july-21\\stringEvents\\stringEvents.csproj",
       "packagesPath": "C:\\Users\\Desmond\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\23-july-21\\StringEvent\\obj\\",
+      "outputPath": "C:\\Training\\23-july-21\\stringEvents\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desmond\\AppData\\Roaming\\NuGet\\NuGet.Config",

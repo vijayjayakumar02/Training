@@ -1,0 +1,16 @@
+C:\Training\23-july-21\stringEvents\bin\Debug\net5.0\stringEvents.exe
+C:\Training\23-july-21\stringEvents\bin\Debug\net5.0\stringEvents.deps.json
+C:\Training\23-july-21\stringEvents\bin\Debug\net5.0\stringEvents.runtimeconfig.json
+C:\Training\23-july-21\stringEvents\bin\Debug\net5.0\stringEvents.runtimeconfig.dev.json
+C:\Training\23-july-21\stringEvents\bin\Debug\net5.0\stringEvents.dll
+C:\Training\23-july-21\stringEvents\bin\Debug\net5.0\ref\stringEvents.dll
+C:\Training\23-july-21\stringEvents\bin\Debug\net5.0\stringEvents.pdb
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.csproj.AssemblyReference.cache
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.AssemblyInfoInputs.cache
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.AssemblyInfo.cs
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.csproj.CoreCompileInputs.cache
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.dll
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\ref\stringEvents.dll
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.pdb
+C:\Training\23-july-21\stringEvents\obj\Debug\net5.0\stringEvents.genruntimeconfig.cache

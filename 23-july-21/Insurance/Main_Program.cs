@@ -8,6 +8,7 @@ namespace Insurance
     {
         static void Main(string[] args)
         {
+            //getting detail from getdetails class
             getDetails getdetails = new getDetails();
             getdetails.getDetail();
         }
