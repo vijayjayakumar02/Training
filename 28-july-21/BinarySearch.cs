@@ -9,21 +9,22 @@ namespace _28_july_21
             System.Console.WriteLine("Enter number of Element: ");
             int size = Convert.ToInt32(Console.ReadLine());
             int[] arr = new int[size];
-            System.Console.WriteLine("Enter the elements in ascending order");
+            System.Console.WriteLine("Enter the elements....");
             for (int i = 0; i < size; i++)
             {
                 arr[i] = Convert.ToInt32(Console.ReadLine());
             }
+            Sort sort = new Sort(arr);
             System.Console.WriteLine("Enter the element to be found: ");
             int target = Convert.ToInt32(Console.ReadLine());
             int position = binarySearchProcess(arr, 0, size - 1, target);
             if (position == -1)
             {
-                System.Console.WriteLine("There is no element that you was searching for..");
+                System.Console.WriteLine("There is no element that you were searching for..");
             }
             else
             {
-                System.Console.WriteLine("The element that your searching for is in postion, " + (position + 1));
+                System.Console.WriteLine("The element that your searching for is founded");
             }
         }
         public int binarySearchProcess(int[] arr, int start, int end, int target)
