@@ -9,7 +9,7 @@ namespace _28_july_21
             System.Console.WriteLine("Enter the word :");
             string word = Console.ReadLine().ToLower();
             bool flag = false;
-            for (int i = 0, j = word.Length - 1; i < pal_check.Length; i++, j--)
+            for (int i = 0, j = word.Length - 1; i < word.Length; i++, j--)
             {
                 if (word[i] == word[j])
                 {
