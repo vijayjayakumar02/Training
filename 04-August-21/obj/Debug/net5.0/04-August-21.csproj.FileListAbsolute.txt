@@ -1,0 +1,16 @@
+C:\Training\04-August-21\bin\Debug\net5.0\04-August-21.exe
+C:\Training\04-August-21\bin\Debug\net5.0\04-August-21.deps.json
+C:\Training\04-August-21\bin\Debug\net5.0\04-August-21.runtimeconfig.json
+C:\Training\04-August-21\bin\Debug\net5.0\04-August-21.runtimeconfig.dev.json
+C:\Training\04-August-21\bin\Debug\net5.0\04-August-21.dll
+C:\Training\04-August-21\bin\Debug\net5.0\ref\04-August-21.dll
+C:\Training\04-August-21\bin\Debug\net5.0\04-August-21.pdb
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.csproj.AssemblyReference.cache
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.AssemblyInfoInputs.cache
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.AssemblyInfo.cs
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.csproj.CoreCompileInputs.cache
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.dll
+C:\Training\04-August-21\obj\Debug\net5.0\ref\04-August-21.dll
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.pdb
+C:\Training\04-August-21\obj\Debug\net5.0\04-August-21.genruntimeconfig.cache
