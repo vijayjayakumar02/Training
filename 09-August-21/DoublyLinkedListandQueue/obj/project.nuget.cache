@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZ2ZIFEBqoub2aqwuNPGrN+ruDXR66cinnc3uisqsVigNLF2DiLIHwYD8yDUYSIkK1KK1j3Conkrdj5xu6+0Vg==",
+  "dgSpecHash": "1c+A2Z4YdVuRxmFTKGfQd6T0xIsDUs5U9aEC3KuvO812424ygKfy6+tI+dnQskfIT/GrWuByifkp2zCc8NxB5g==",
   "success": true,
-  "projectFilePath": "C:\\Training\\09-August-21\\DoublyLinkedList\\DoublyLinkedList.csproj",
+  "projectFilePath": "C:\\Training\\09-August-21\\DoublyLinkedListandQueue\\DoublyLinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
