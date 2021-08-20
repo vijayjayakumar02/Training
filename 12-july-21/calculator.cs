@@ -20,7 +20,7 @@ namespace day6
             {
                 Console.WriteLine("Enter the numbers or type \"quit\" to exit :");
                 string input = Console.ReadLine();
-                while (input != "quit")
+                while (input != "qui")
                 {
                     int num_out = 0;
                     if (int.TryParse(input, out num_out))
